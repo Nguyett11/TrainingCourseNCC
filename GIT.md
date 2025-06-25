@@ -53,7 +53,7 @@
     
 # Phần 8: Commit Convention
 Quy tắc giúp commit dễ hiểu, rõ ràng, thống nhất khi làm việc nhóm. Ví dụ theo chuẩn Conventional Commits:
-  ## !<type>(scope): message
+  ## <type>(<scope>): <short summary>
   - type: loại commit (feat, fix, refactor, docs, test, chore, ...)
   - scope: phạm vi thay đổi (không bắt buộc)
   - message: mô tả ngắn gọn, rõ ràng
